@@ -40,9 +40,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
-## Acknowledgements
-Special thanks to the Pygame community for their resources and tutorials.
-Contact
-For any inquiries, please contact [your-email@example.com].
+
+## Contact
+For any inquiries, please contact clen.emenike@gmail.com
 
 
